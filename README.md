@@ -4,7 +4,7 @@
 
 <br/>
 
-# Sardorbek Obidov
+# Sardor Obidov
 
 **Backend & Systems Engineer · Linux Infrastructure · Python**
 
