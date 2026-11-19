@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./banner.png" alt="Sardor Obidov — Developer Banner" width="100%" />
+</div>
+
+<br/>
+
 # Sardorbek Obidov
 
 **Backend & Systems Engineer · Linux Infrastructure · Python**
