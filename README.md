@@ -28,7 +28,7 @@ A backend-driven web application designed around clean relational data modeling,
 
 ## Local AI & Automation
 
-### [obidovai](https://github.com/obidovdev/obidovai) — Self-Hosted Desktop Agent
+### [obidovai](https://ai.obidovdev.uz) — Self-Hosted Desktop Agent
 A Telegram-controlled local AI assistant powered by self-hosted Ollama models (`qwen3`, `qwen2.5`). 
 
 Built with persistent conversational memory and OS-level execution capabilities, bridging remote messaging interfaces with local Linux automation without relying on external cloud APIs.
