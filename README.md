@@ -20,7 +20,7 @@ Central engineering hub and deployment showcase hosting production projects, inf
 ### Email OTP Authentication Service (`api-otp`)
 Standalone authentication microservice built with Django REST Framework, providing one-time password generation, request throttling, and stateless verification across services.
 
-### [Ob-Havo/Dev](https://github.com/obidovdev/weather) — Trilingual Weather PWA
+### [Weather](https://weather.obidovdev.uz) — Trilingual Weather PWA
 Lightweight Progressive Web App built with Flask and deployed on Ubuntu Linux behind Cloudflare, Caddy, and Gunicorn under persistent `systemd` process supervision.
 
 ### Course Attendance & Management Platform
