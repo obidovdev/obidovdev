@@ -8,30 +8,30 @@
 
 **Backend & Systems Engineer · Linux Infrastructure · Python**
 
-I build backend systems, RESTful APIs, self-hosted services, and automated Linux environments with a focus on reliability, low overhead, and operational simplicity.
+I design and operate backend services, REST APIs, self-hosted platforms, and automated Linux infrastructure with a focus on reliability, low overhead, and operational simplicity.
 
-I believe engineering is more than writing code. It is about understanding how systems behave from the kernel and network layer up to the application, handling failures gracefully, and keeping infrastructure deterministic.
+Good systems engineering goes beyond application code. It requires understanding how workloads behave from the kernel and network stack up to the service layer, handling failure modes gracefully, and keeping production environments predictable.
 
 ## Production Systems
 
-### [obidovdev.uz](https://obidovdev.uz) — Personal Platform & Lab
-My personal web platform and central hub for my engineering work, deployments, and technical experiments.
+### [obidovdev](https://obidovdev.uz) — Personal Platform & Lab
+Central engineering hub and deployment showcase hosting production projects, infrastructure experiments, and technical notes.
 
 ### Email OTP Authentication Service (`api-otp`)
-A standalone authentication microservice built with Django REST Framework, handling secure email-based OTP generation, rate limiting, and stateless identity verification across applications.
+Standalone authentication microservice built with Django REST Framework, providing one-time password generation, request throttling, and stateless verification across services.
 
 ### [Ob-Havo/Dev](https://github.com/obidovdev/weather) — Trilingual Weather PWA
-A lightweight Progressive Web App engineered with Flask and deployed on Ubuntu Linux behind Cloudflare, Caddy reverse proxy, and Gunicorn, managed as a persistent `systemd` daemon.
+Lightweight Progressive Web App built with Flask and deployed on Ubuntu Linux behind Cloudflare, Caddy, and Gunicorn under persistent `systemd` process supervision.
 
 ### Course Attendance & Management Platform
-A backend-driven web application designed around clean relational data modeling, role-based access control, and reliable state tracking.
+Backend web system structured around normalized relational schemas, role-based access control, and consistent attendance state tracking.
 
-## Local AI & Automation
+## AI & Automation Services
 
-### [obidovai](https://ai.obidovdev.uz) — Self-Hosted Desktop Agent
-A Telegram-controlled local AI assistant powered by self-hosted Ollama models (`qwen3`, `qwen2.5`). 
+### [obidovAI](https://ai.obidovdev.uz) — Multi-User AI Assistant & Automation Service
+Publicly accessible Telegram-integrated AI service backed by self-hosted Ollama models (`qwen3`, `qwen2.5`).
 
-Built with persistent conversational memory and OS-level execution capabilities, bridging remote messaging interfaces with local Linux automation without relying on external cloud APIs.
+Architected with persistent session memory, controlled tool execution, and guardrails to support multi-user access safely—combining low-cost local inference with dependable remote orchestration.
 
 ## Tech Stack
 
@@ -47,27 +47,27 @@ Built with persistent conversational memory and OS-level execution capabilities,
 - Caddy, Cloudflare DNS & Edge Routing
 - Git, `uv`, SSH, Linux Networking & Kernel Troubleshooting
 
-**Local AI & Automation**
-- Ollama (Self-hosted LLMs)
-- Desktop & System Task Automation
+**AI & Automation**
+- Self-Hosted LLM Inference (Ollama: `qwen3`, `qwen2.5`)
+- Multi-User Bot Orchestration & Automated Workflows
 
 ## Engineering Focus
 
-- Designing clean, maintainable backend architectures
-- Self-hosting web services with automated process supervision (`systemd` & Caddy)
-- Building privacy-first local AI tools and OS-level automation
-- Optimizing Linux environments for continuous uptime and stability
-- Applying cybersecurity fundamentals to API and server hardening
+- Building clean, maintainable backend architectures and microservices
+- Running self-hosted Linux workloads with `systemd`, Caddy, and automated recovery
+- Operating shared AI services with clear boundaries, resource controls, and uptime discipline
+- Tuning Linux environments for continuous availability and low operational toil
+- Applying practical security hygiene to APIs, ingress, and host configurations
 
 ## Privacy, Access & Signal-to-Noise
 
-Not every repository needs to be public, and not every system needs to be exposed.
+Not every repository needs to be public, and not every endpoint should be open without guardrails.
 
-In systems engineering, unthrottled exposure leads to noise, instability, and wasted cycles. A reliable server enforces strict firewall rules, rate limits, and clean interfaces — exposing only what is intentional and well-documented.
+In production systems, unthrottled exposure creates noise, contention, and unnecessary risk. Reliable infrastructure relies on explicit access boundaries, rate limits, and clean interfaces—exposing only what is intentional, monitored, and ready for real traffic.
 
-**I apply the same discipline to my work and time.**
+**I apply the same discipline to my engineering work and focus.**
 
-Experimental scripts, internal configurations, and work-in-progress prototypes stay private until they are production-ready. What you see here is intentional, tested, and built to run reliably.
+Experimental prototypes, internal configs, and unfinished work stay private until proven solid. What lives here is deliberate, tested, and built to stay up.
 
 ## Connect
 
